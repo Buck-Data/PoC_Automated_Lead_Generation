@@ -4,7 +4,7 @@
 
 ---
 
-##Projektübersicht
+## Projektübersicht
 
 Dieses Projekt automatisiert den gesamten Prozess der B2B-Leadgenerierung mithilfe von **n8n**, einem **Large Language Model (LLM)** und der **Apollo API**. Der Workflow übernimmt die Identifikation relevanter Jobtitel, die Leadsuche sowie die Datenanreicherung und speichert alle Ergebnisse strukturiert in **Google Sheets**.
 
